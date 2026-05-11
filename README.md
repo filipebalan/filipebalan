@@ -26,3 +26,11 @@
 
 * **E-mail:** filipebalan@gmail.com
 * **LinkedIn:** [linkedin.com/in/filipebalan](https://linkedin.com/in/filipebalan)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/filipebalan/filipebalan/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/filipebalan/filipebalan/output/dist/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/filipebalan/filipebalan/output/dist/github-contribution-grid-snake.svg">
+  </picture>
+</div>
