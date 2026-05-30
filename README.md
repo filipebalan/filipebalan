@@ -1,36 +1,42 @@
-### Olá! Sou Filipe Balan 👋
+# Olá! Sou Filipe Balan 👋
 
-💻 **Estudante de Análise e Desenvolvimento de Sistemas (ADS)** focado na construção de soluções **Back-end**. Gosto de entender os bastidores das aplicações, estruturar regras de negócio complexas e automatizar processos através de código limpo e integrações seguras.
+💻 **Desenvolvedor Backend** focado no ecossistema Java e Spring Boot. Meu laboratório diário é traduzir regras de negócio complexas para o código, construindo APIs resilientes, seguras e com arquitetura limpa. 
 
-* 🎓 **Formação:** Cursando ADS na Faculdade Anhanguera (Previsão: 2028).
-* 🚀 **Capacitação:** Pré-selecionado para o Bootcamp Santander Backend Java.
-* ⚡ **Mentalidade:** Construindo a base, um código de cada vez.
+Estudante de Análise e Desenvolvimento de Sistemas (Faculdade Anhanguera), construo minha base técnica resolvendo problemas de domínio real, com foco em precisão de dados e sistemas de alta volumetria.
 
 ---
 
-### 🛠️ Minhas Tecnologias e Ferramentas
+### 🛠️ Minha Stack Tecnológica
 
-<p align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
-</p>
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,nodejs,js,docker,git,postman&theme=dark" />
+  </a>
+</div>
+
+---
+
+### 🚀 Projetos em Destaque
+
+#### 💰 Motor Financeiro e Tributário (API RESTful)
+*O core de um sistema de cálculos tributários focado em precisão absoluta.*
+- **Tecnologias:** Java 17, Spring Boot, Spring Validation, PostgreSQL.
+- **Destaques Arquiteturais:** - Utilização rigorosa da classe `BigDecimal` para cálculos de retenção progressiva de IRPF, eliminando falhas de arredondamento em transações.
+  - Implementação de **Arquitetura Limpa** e Padrão **DTO** para blindagem de dados de entrada.
+  - Resiliência de rotas garantida através de tratamento global de exceções (`@RestControllerAdvice`).
+
+---
+
+### 📊 Minhas Estatísticas
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipebalan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipebalan&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ---
 
 ### 📬 Como me encontrar
 
-* **E-mail:** filipebalan@gmail.com
-* **LinkedIn:** [linkedin.com/in/filipebalan](https://linkedin.com/in/filipebalan)
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/filipebalan/filipebalan/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/filipebalan/filipebalan/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/filipebalan/filipebalan/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+- **LinkedIn:** [linkedin.com/in/filipebalan](https://linkedin.com/in/filipebalan)
+- **E-mail:** filipebalan@gmail.com
