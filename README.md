@@ -27,12 +27,11 @@ Estudante de Análise e Desenvolvimento de Sistemas (Faculdade Anhanguera), cons
 
 ---
 
-### 📊 Minhas Estatísticas
+### 🎯 Onde estou focando agora
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=filipebalan&show_icons=true&theme=tokyonight&hide_border=true&v=1" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipebalan&layout=compact&theme=tokyonight&hide_border=true&v=1" height="160" />
-</div>
+- ☕ **Aprofundando:** Arquitetura Limpa, Design Patterns e tratamento de exceções no ecossistema Spring Boot.
+- 🗄️ **Explorando:** Modelagem de dados, integridade transacional e otimização em PostgreSQL.
+- 🚀 **Próximos passos:** Deploy de APIs em nuvem e introdução a esteiras de CI/CD.
 
 <br>
 
