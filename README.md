@@ -29,11 +29,8 @@ Estudante de Análise e Desenvolvimento de Sistemas (Faculdade Anhanguera), cons
 
 ### 📊 Minhas Estatísticas
 
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipebalan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipebalan&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=filipebalan&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/filipebalan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipebalan&layout=compact&theme=tokyonight)](https://github.com/filipebalan)
 ---
 
 ### 📬 Como me encontrar
