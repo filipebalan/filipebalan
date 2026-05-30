@@ -2,7 +2,7 @@
 
 💻 **Desenvolvedor Backend** focado no ecossistema Java e Spring Boot. Meu laboratório diário é traduzir regras de negócio complexas para o código, construindo APIs resilientes, seguras e com arquitetura limpa. 
 
-Estudante de Análise e Desenvolvimento de Sistemas (Faculdade Anhanguera), construo minha base técnica resolvendo problemas de domínio real, com foco em precisão de dados e sistemas de alta volumetria.
+Construo minha base técnica resolvendo problemas de domínio real, com foco em precisão de dados e sistemas de alta volumetria.
 
 ---
 
@@ -27,11 +27,12 @@ Estudante de Análise e Desenvolvimento de Sistemas (Faculdade Anhanguera), cons
 
 ---
 
-### 🎯 Onde estou focando agora
+### 📊 Minhas Estatísticas
 
-- ☕ **Aprofundando:** Arquitetura Limpa, Design Patterns e tratamento de exceções no ecossistema Spring Boot.
-- 🗄️ **Explorando:** Modelagem de dados, integridade transacional e otimização em PostgreSQL.
-- 🚀 **Próximos passos:** Deploy de APIs em nuvem e introdução a esteiras de CI/CD.
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=filipebalan&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=filipebalan&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Linguagens mais usadas" />
+</div>
 
 <br>
 
